@@ -1,14 +1,14 @@
 # Site
 title:              Dreamow
 bio:                'Chẳng phải là anh sống chậm, mà đi sau là do tính chây lười...'
-description:        "Đơn giản là blog cá nhân thôi."
+description:        "Đơn giản là 1 cái blog cá nhân thôi~~."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://dreamow99.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   dreamow
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,19 +38,19 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:            username
+facebook:           dreamow99
+github-url:         dreamow99
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          dreamow9
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              dreamow
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
